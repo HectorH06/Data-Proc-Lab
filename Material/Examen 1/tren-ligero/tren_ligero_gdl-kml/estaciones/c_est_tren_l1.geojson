@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4007340141827,
+          20.607186834339043
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION PERIFERICO SUR",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3955883685158,
+          20.613745345583133
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION SANTUARIO MARTIRES DE CRISTO REY",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.38936428631536,
+          20.621419349549075
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION ESPAÑA",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.38491615435841,
+          20.626743534028236
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION PATRIA",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.38053665843353,
+          20.632749395833677
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION ISLA RAZA",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.37688694070779,
+          20.638140569832395
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION 18 DE MARZO",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.37272095142825,
+          20.643108522226402
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION URDANETA",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.36909549824334,
+          20.64736444935639
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION UNIDAD DEPORTIVA",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.36366444803036,
+          20.654232223626927
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION SANTA FILOMENA",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35744057149675,
+          20.66104297215313
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION WASHINGTON",
+        "Detalle": "Subterranea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35534123195853,
+          20.66693738810228
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION MEXICALTZINGO",
+        "Detalle": "Subterranea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35467617854923,
+          20.674925705895557
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION JUAREZ1",
+        "Detalle": "Subterranea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35408817085435,
+          20.682118866183
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION REFUGIO",
+        "Detalle": "Subterranea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35386804425512,
+          20.691533118653993
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION MEZQUITAN",
+        "Detalle": "Subterranea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35492506238931,
+          20.698300638793693
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION AVILA CAMACHO",
+        "Detalle": "Subterranea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35435561492875,
+          20.716048158653688
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION DIVISION DEL NORTE",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35329630474526,
+          20.72098536818317
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION DERMATOLOGICO",
+        "Detalle": "Superficie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35244849290308,
+          20.730316246317162
+        ]
+      },
+      "properties": {
+        "Id": "0",
+        "NOMBRE": "ESTACION PERIFERICO NORTE",
+        "Detalle": "Superficie"
+      }
+    }
+  ]
+}
